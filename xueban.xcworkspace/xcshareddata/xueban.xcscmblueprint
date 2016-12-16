@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "901E79E0E5FDD0F84CA663F370795A84C6B5D9F0",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "901E79E0E5FDD0F84CA663F370795A84C6B5D9F0" : 9223372036854775807,
+    "76CD3AAC315693FFDA7DB8DCE052C13A9E5EE1CC" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "7B465D44-7752-4AB8-8F55-DAB4D0A479C9",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "901E79E0E5FDD0F84CA663F370795A84C6B5D9F0" : "%E5%AD%A6%E4%BC%B4%E5%BC%80%E6%BA%90\/",
+    "76CD3AAC315693FFDA7DB8DCE052C13A9E5EE1CC" : "%E5%AD%A6%E4%BC%B42.3\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "xueban",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "xueban.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/git.coding.net\/dangbo\/xueban2.3.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "76CD3AAC315693FFDA7DB8DCE052C13A9E5EE1CC"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/git.coding.net\/dangbo\/xueban-3.0.1.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "901E79E0E5FDD0F84CA663F370795A84C6B5D9F0"
+    }
+  ]
+}
