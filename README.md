@@ -1,5 +1,5 @@
 # 学伴 V3.0.4版本
-<img src="https://github.com/dangbo/xueban/blob/master/README/icon.png"/>
+<img src="https://github.com/dangbo/xueban/blob/master/README/icon.png" width = "25%"/>
 
 学伴是一款集教务信息，校园资讯，图书管理的学生工具型应用。功能有查课表，找图书，看通知等等。
 
