@@ -4,7 +4,9 @@
 学伴是一款集教务信息，校园资讯，图书管理的学生工具型应用。功能有查课表，找图书，看通知等等。
 
 [学伴分析(一)安全性实践](http://www.dangbo.net/2016/12/20/security/#more)  
-[学伴分析(二)UITableView优化](http://www.dangbo.net/2016/12/29/UITableView%E4%BC%98%E5%8C%96/)
+[学伴分析(二)UITableView优化](http://www.dangbo.net/2016/12/29/UITableView%E4%BC%98%E5%8C%96/)  
+
+![](https://ww2.sinaimg.cn/large/006tNbRwgy1fcjcllv512j30ss0nmdks.jpg)
 ##学伴目前服务于约5000名大连理工大学的学生，因此在这里进行了脱敏处理，该目录下程序无法运行   
 （删除了第三方sdk的appkey、
 接口地址、
