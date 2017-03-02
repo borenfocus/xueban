@@ -7,7 +7,7 @@
 [学伴分析(二)UITableView优化](http://www.dangbo.net/2016/12/29/UITableView%E4%BC%98%E5%8C%96/)  
 
 ![](https://ww2.sinaimg.cn/large/006tNbRwgy1fcjcllv512j30ss0nmdks.jpg)
-##学伴目前服务于约5000名大连理工大学的学生，因此在这里进行了脱敏处理，该目录下程序无法运行   
+##学伴目前服务于约10000名大连理工大学的学生，因此在这里进行了脱敏处理，该目录下程序无法运行   
 （删除了第三方sdk的appkey、
 接口地址、
 接口请求参数、
@@ -16,7 +16,7 @@ https证书、
 PrefixHeader）
 
 完整版可以在AppStore下载 [下载地址](https://itunes.apple.com/us/app/xue-ban/id948136730?l=zh&ls=1&mt=8)  
-测试账号:201494002 密码:110310
+###测试账号:201494002 密码:110310
 
 欢迎交流:  
 个人博客: [党博](http://www.dangbo.net)  
